@@ -1,0 +1,18 @@
+djangoProjectName <dir>
+manage.py
+      djangoProjectName<dir>
+            settings.py
+            urls.py
+           __init__.py
+          wsgi.py
+    appName<dir>
+       admin.py
+       urls.py
+       models.py
+       forms.py
+       tests.py
+      views.py
+      templates <dir>
+         base.html
+        appname<dir >
+           html files
